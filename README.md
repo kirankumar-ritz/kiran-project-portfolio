@@ -35,7 +35,7 @@ Each project reflects my learning journey and practical application of tools lik
 ---
 
 ## 📫 Connect With Me
-- 🌐 [LinkedIn](kiran-kumar-c-s-aa369629b)
+- 🌐 [LinkedIn]www.linkedin.com/in/kiran-kumar-c-s-aa369629b
 - ✉️ Email:kirankumar99862@gmail.com
 - 🧰 GitHub: [kirankumar-ritz](https://github.com/kirankumar-ritz)
 
