@@ -10,7 +10,7 @@ Each project reflects my learning journey and practical application of tools lik
 
 ### 🧮 Finance Projects
 - [Profitability & Ratio Analysis - Micon Engineering Pvt. Ltd.](#)
-- [AI-Powered Portfolio Management (MBA Thesis)](#)
+- [Zepto Valuation using DCF & Monte Carlo Simulation](https://github.com/kirankumar-ritz/zepto-valuation-dcf-montecarlo).
 
 ### 📊 Business Analytics Projects
 - [HUL Sales Dashboard (Power BI)](#)
