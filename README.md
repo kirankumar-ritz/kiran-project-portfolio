@@ -1,4 +1,4 @@
-# 🌟 Kiran's Project Portfolio
+# 🌟 Kiran's Portfolio
 
 Welcome to my project portfolio!  
 This repository showcases my work across multiple domains, including **Finance**, **Business Analytics**, **Artificial Intelligence**, and more.  
